@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on 42 Ft_Transcendence<br>🌱 I’m currently learning HTML, CSS and JavaScript
+
+🔭 I am currently designing and developing a full internal application for my company, handling the entire process independently. This includes planning the architecture, developing the backend and frontend, designing and managing the database, integrating workflows, and deploying the solution. The goal of the project is to transform existing Excel-based processes into a modern, efficient, and secure web application that improves productivity and data reliability across the organization.
+
+🌱 I am actively working with TypeScript, Fastify, React, Electron, SQLite, and other modern web technologies. I continuously learn new tools and frameworks to ensure the project follows best practices in software architecture, security, and maintainability.
+
+💬 I enjoy solving complex problems, optimizing workflows, and building applications that have a tangible impact on business operations.
+
+⚡ Fun fact: I love combining automation, data management, and clean UI design to make software that not only works efficiently but is also a joy to use.
 
 
 ## 🌐 Socials:
